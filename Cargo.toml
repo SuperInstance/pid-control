@@ -1,0 +1,12 @@
+[package]
+name = "pid-control"
+version = "0.1.0"
+edition = "2021"
+description = "Research-grade PID controller with anti-windup, bumpless transfer, and auto-tuning (Ziegler-Nichols)"
+license = "MIT"
+repository = "https://github.com/SuperInstance/pid-control"
+keywords = ["pid", "control", "robotics", "controller", "autotune"]
+categories = ["science::robotics", "algorithms"]
+readme = "README.md"
+
+[dependencies]
