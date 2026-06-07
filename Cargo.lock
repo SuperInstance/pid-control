@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "pid-control"
+name = "robo-pid-control"
 version = "0.1.0"

@@ -1,5 +1,5 @@
 [package]
-name = "pid-control"
+name = "robo-pid-control"
 version = "0.1.0"
 edition = "2021"
 description = "Research-grade PID controller with anti-windup, bumpless transfer, and auto-tuning (Ziegler-Nichols)"
